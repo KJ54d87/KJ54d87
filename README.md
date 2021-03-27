@@ -1,4 +1,4 @@
-- Hi, I’m @KJ54d87
+- Hi, I’m KJ54d87
 - I’m learning c++ & github
 - En Taro Tassadar! Glory to the Firstborn!
 
