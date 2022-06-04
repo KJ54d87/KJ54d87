@@ -1,6 +1,5 @@
 - Hi, I’m KJ54d87
 - I’m learning c++ & github
-- En Taro Tassadar! Glory to the Firstborn!
 
 <!---
 KJ54d87/KJ54d87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
